@@ -1,2 +1,2 @@
-# aura_website
-Website for AURA
+# AURA Website
+Website for the Association for Undergraduate Research Advancement (AURA).
