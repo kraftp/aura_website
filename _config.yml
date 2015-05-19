@@ -10,6 +10,7 @@ tagline:             Association for Undergraduate Research Advancement
 url:                 http://aura.hcura.org
 paginate:            1
 baseurl:             ""
+home:                /home-page
 
 # Assets
 #
@@ -28,3 +29,6 @@ author:
 version:             1.0.0
 github:
   repo:              https://github.com/kraftp/aura_website
+
+# Pages in website header
+pages_list:       {'About':'/about'}
