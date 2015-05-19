@@ -31,4 +31,4 @@ github:
   repo:              https://github.com/kraftp/aura_website
 
 # Pages in website header
-pages_list:       {'About':'/about'}
+pages_list:       {'About':'/about', 'Research Opportunities':'/opportunities', "Research Advice":'/advice'}
