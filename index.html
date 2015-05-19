@@ -10,7 +10,13 @@ title: Home
         Association for Undergraduate Research Advancement
       </a>
     </h1>
-    {% markdown home-page.md %}
+
+
+
+
+{% capture homepage %}{% include home-page.md %}{% endcapture %}
+{{ homepage | markdownify }}
+
   </article>
 </div>
 
