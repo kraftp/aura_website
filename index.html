@@ -3,20 +3,6 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}">
-        Association for Undergraduate Research Advancement
-      </a>
-    </h1>
-
-
-
-
-{% capture homepage %}{% include home-page.md %}{% endcapture %}
-{{ homepage | markdownify }}
-
-  </article>
-</div>
-
+{% assign page = site.posts.first %}
+{% assign content = page.content %}
+{% include post.html %}

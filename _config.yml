@@ -1,3 +1,7 @@
+name: AURA
+markdown: redcarpet
+pygments: true
+
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
@@ -31,4 +35,5 @@ github:
   repo:              https://github.com/kraftp/aura_website
 
 # Pages in website header
-pages_list:       {'About':'/about', 'Research Opportunities':'/opportunities', "Research Advice":'/advice'}
+pages_list:       {'About':'/about', 'Research Opportunities':'/research_opportunities', "Research Advice":'/research_advice'}
+home: '/2015-5-19-homepage'
