@@ -6,5 +6,5 @@ date:   2015-05-25 09:00:00
 categories: posts
 ---
 
-Insert content about contact information here.  Check us out at [Github](https://github.com/kraftp/aura_website)!
+Insert content about contact information here for students. Check us out at [Github](https://github.com/kraftp/aura_website)!
 
