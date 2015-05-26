@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Research Opportunities
+title: Database
 cover: cover.jpg
-date:   2013-12-09 12:00:00
+date:   2015-05-26 12:00:00
 categories: posts
 ---
 
@@ -11,4 +11,4 @@ categories: posts
 - [Research Opportunities](http://aura.hcura.org/research_opportunities/)
 - [Research Advice](http://aura.hcura.org/research_advice/)
 
-The following is a list of interesting opportunities and resources for conducting and presenting research nationwide:
+AURA has compiled a database the different laboratories doing research at all of its affiliate institutions. The information about all the different research opportunities is coming soon!

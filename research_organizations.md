@@ -1,8 +1,8 @@
 ---
 layout: post
-title: About AURA
+title: Research Organizations
 cover: cover.jpg
-date:   2015-5-25 12:00:00
+date:   2015-05-25 11:00:00
 categories: posts
 ---
 
@@ -11,4 +11,4 @@ categories: posts
 - [Steering Committee](http://aura.hcura.org/steering_committee/)
 - [Affiliated Research Organizations](http://aura.hcura.org/mission/research_organizations)
 
-AURA is an alliance of undergraduate research organizations devoted to fostering a national undergraduate research community.  Check us out at [Github](https://github.com/kraftp/aura_website)!
+Insert information about AURA's member organizations here.
