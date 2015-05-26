@@ -35,5 +35,5 @@ github:
   repo:              https://github.com/kraftp/aura_website
 
 # Pages in website header
-pages_list:       {'About':'/about', 'For Students':'/for_students', 'For Research Organizations':'/for_research_organizations', "NCRC":'/NCRC', "Research Advice":'/research_advice', "Contact Us":'/contact_us'}
+pages_list:       {'Home':'/home-page', 'About':'/about', 'For Students':'/for_students', 'For Research Organizations':'/for_research_organizations', "NCRC":'/NCRC', "Research Advice":'/research_advice', "Contact Us":'/contact_us'}
 home: '/2015-5-19-homepage'
