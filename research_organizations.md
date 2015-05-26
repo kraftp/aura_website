@@ -6,9 +6,14 @@ date:   2015-05-25 11:00:00
 categories: posts
 ---
 
-- [About AURA](http://aura.hcura.org/about/)
-- [Mission](http://aura.hcura.org/mission/)
-- [Steering Committee](http://aura.hcura.org/steering_committee/)
-- [Affiliated Research Organizations](http://aura.hcura.org/research_organizations)
+- [Mission](/mission/)
+- [Steering Committee](/steering_committee/)
+- [Affiliated Research Organizations](/research_organizations)
 
 Insert information about AURA's member organizations here.
+
+Current member institutions: (Alphabetical. Not an exhaustive list)
+
+- [Harvard University](http://www.hcura.org/)
+- [Stanford University](http://sura.stanford.edu/)
+- [Yale University](http://yura.yale.edu/)

@@ -6,10 +6,9 @@ date:   2013-12-09 12:00:00
 categories: posts
 ---
 
-- [For Students](http://aura.hcura.org/for_students/)
-- [Database](http://aura.hcura.org/database/)
-- [Research Opportunities](http://aura.hcura.org/research_opportunities/)
-- [Research Advice](http://aura.hcura.org/research_advice/)
+- [Database](/database/)
+- [Research Opportunities](/research_opportunities/)
+- [Research Advice](/research_advice/)
 
 The following is a list of online resources and advice for entering research:
 

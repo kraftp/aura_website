@@ -6,9 +6,8 @@ date:   2015-05-26 12:00:00
 categories: posts
 ---
 
-- [For Students](http://aura.hcura.org/for_students/)
-- [Database](http://aura.hcura.org/database/)
-- [Research Opportunities](http://aura.hcura.org/research_opportunities/)
-- [Research Advice](http://aura.hcura.org/research_advice/)
+- [Database](/database/)
+- [Research Opportunities](/research_opportunities/)
+- [Research Advice](/research_advice/)
 
-AURA has compiled a database the different laboratories doing research at all of its affiliate institutions. The information about all the different research opportunities is coming soon!
+AURA has compiled a database of the different laboratories doing research at all of its affiliate institutions. Information about all of the different research opportunities is coming soon and will be available to any student at an AURA affiliate institution that desires it. The aim is to enable students to have more visibility into the types of research opportunities that they can pursue, across institutions. Stay tuned!

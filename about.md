@@ -6,9 +6,8 @@ date:   2015-5-25 12:00:00
 categories: posts
 ---
 
-- [About AURA](http://aura.hcura.org/about/)
-- [Mission](http://aura.hcura.org/mission/)
-- [Steering Committee](http://aura.hcura.org/steering_committee/)
-- [Affiliated Research Organizations](http://aura.hcura.org/mission/research_organizations)
+- [Mission](/mission/)
+- [Steering Committee](/steering_committee/)
+- [Affiliated Research Organizations](/research_organizations)
 
-AURA is an alliance of undergraduate research organizations devoted to fostering a national undergraduate research community.  Check us out at [Github](https://github.com/kraftp/aura_website)!
+AURA is an alliance of undergraduate research organizations devoted to fostering a national undergraduate research community.
