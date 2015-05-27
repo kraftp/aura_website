@@ -7,6 +7,4 @@ categories: posts
 ---
 ### About Us
 
-The Association for Undergraduate Research Advancement is an alliance of undergraduate research organizations devoted to fostering a national undergraduate research community.  This website is currently in development by Peter Kraft of HCURA and Nishant Jain of YURA. It is hosted on [Github](https://github.com/kraftp/aura_website)!
-
-Thanks!
+The Association for Undergraduate Research Advancement is an alliance of undergraduate research organizations devoted to fostering a national undergraduate research community.  This website is currently in development by Nishant Jain of YURA and Peter Kraft of HCURA. It is hosted on [Github](https://github.com/kraftp/aura_website)!

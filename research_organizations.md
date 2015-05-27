@@ -12,8 +12,10 @@ categories: posts
 
 Insert information about AURA's member organizations here.
 
-Current member institutions: (Alphabetical. Not an exhaustive list)
+Founding Member Institutions: (Alphabetical Order. Not an exhaustive list)
 
 - [Harvard University](http://www.hcura.org/)
+
 - [Stanford University](http://sura.stanford.edu/)
+
 - [Yale University](http://yura.yale.edu/)

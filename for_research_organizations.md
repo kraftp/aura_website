@@ -6,5 +6,8 @@ date:   2015-05-25 09:00:00
 categories: posts
 ---
 
-Insert content for Research Organizations here.  Check us out at [Github](https://github.com/kraftp/aura_website)!
+##Coming Soon!
+More content and resources for research associations will be added to this page in the upcoming weeks. 
+
+If you are interesting in starting an undergraduate research association at your school and joining AURA, please feel free to [contact us](/contact_us). AURA would be happy to help you out! 
 
