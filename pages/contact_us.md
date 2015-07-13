@@ -4,7 +4,7 @@ title: Contact Us
 ---
 
 ####Email Us
-If you would like to contact us, please send a message to TemporaryEmail@aura.org.
+If you would like to contact us, please send a message to (aura@undergradresearch.org).
 
 We would be happy to answer any questions about joining AURA and assist you in starting an undergraduate research association at your own institution.
 
