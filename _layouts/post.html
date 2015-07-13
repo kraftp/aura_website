@@ -1,4 +1,17 @@
 ---
 layout: default
 ---
-{% include post.html %}
+{% include header.html %}
+<!-- CONTENT
+================================================== -->
+<!-- SINGLE COLUMN-->
+<div class="row">
+	<div class="twelve columns">
+		<h2>{{page.title}}</h2>
+		<hr>
+		<p>
+			{{content}}
+		</p>
+	</div>
+</div>
+{% include footer.html %}
