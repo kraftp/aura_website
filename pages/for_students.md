@@ -3,6 +3,5 @@ layout: post
 title: For Students
 ---
 
-The following is a list of interesting opportunities and resources for conducting and presenting research nationwide:
-
-Insert content about student resources here.
+####Coming Soon!
+More content and resources for student researchers will be added to this page in the upcoming weeks.
