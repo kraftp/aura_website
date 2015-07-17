@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               AURA
 tagline:             Association for Undergraduate Research Advancement
-url:                 http://aura.hcura.org
+url:                 http://aura.undergradresearch.org
 paginate:            1
 baseurl:             ""
 home:                /home-page
