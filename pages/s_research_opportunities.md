@@ -15,7 +15,7 @@ The National Collegiate Research Conference, held annually at Harvard University
 
 - [Yale Undergraduate Research Symposium (YURS)](http://yura.yale.edu/yurs-2015)
 
-The Yale Undergraduate Research Symposium is a research conference hosted by YURA in New Haven, Connecticut that allows students to present their work to the Yale community.
+The Yale Undergraduate Research Symposium is a research conference hosted in New Haven, Connecticut that allows students to present their work to the Yale community.
 
  - [Stanford Research Conference (SRC)](http://sura.stanford.edu)
 
