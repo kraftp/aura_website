@@ -12,5 +12,5 @@ We would be happy to answer any questions about joining AURA and assist you in s
 ####Social Media
 Additionally, please follow us on Facebook and Twitter for more updates!
 
- - [Facebook Page](http://www.facebook.com)
+ - [Facebook Page](https://www.facebook.com/AURAUndergradResearch)
  - [Twitter Account](http://www.twitter.com)
