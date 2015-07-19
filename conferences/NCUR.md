@@ -1,12 +1,9 @@
 ---
 layout: post
-title: NCUR
-cover: cover.jpg
-date:   2015-05-25 09:00:00
-categories: posts
+title: National Conference on Undergraduate Research
 ---
 
-![Test Image](/images/ncurfrontpage.jpg)
+[![NCUR](/images/ncurfrontpage.jpg)](http://www.cur.org/conferences_and_events/student_events/ncur/)
 
 The National Conference on Undergraduate Research is a conference hosted by the Council on Undergraduate Research. Held annually since 1987 in universities across the United States, the conference gives undergraduates a forum to present their research and learn from their peers in the academic community.
 

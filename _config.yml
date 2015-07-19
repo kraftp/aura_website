@@ -1,6 +1,6 @@
 name: AURA
 markdown: kramdown
-pygments: true
+highlighter: pygments
 
 # Permalinks
 #
