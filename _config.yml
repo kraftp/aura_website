@@ -1,0 +1,35 @@
+name: AURA
+markdown: kramdown
+highlighter: pygments
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               AURA
+tagline:             Association for Undergraduate Research Advancement
+url:                 http://aura.undergradresearch.org
+paginate:            1
+baseurl:             ""
+home:                /home-page
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Peter Kraft
+  url:               https://github.com/kraftp
+  email:             pkraft@college.harvard.edu
+
+# Custom vars
+version:             1.0.0
+github:
+  repo:              https://github.com/kraftp/aura_website
