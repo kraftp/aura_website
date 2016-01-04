@@ -1685,6 +1685,11 @@ Supports Thumbs: true
 	font-weight:bold;
 }
 
+.not-active{
+	pointer-events: none;
+   cursor: default;
+}
+
 
 /*!
  *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
