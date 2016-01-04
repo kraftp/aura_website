@@ -11,7 +11,7 @@ title: Research Organizations
 <li> <a href="http://www.hcura.org/">Harvard University</a> </li>
 <li>Massachusetts Institute of Technology</li>
 <li> <a href="http://sura.stanford.edu/">Stanford University</a> </li>
-<li>University of British Columbia</li>
+<li> <a href="http://www.uroubc.ca/">University of British Columbia</a></li>
 <li>University of Chicago</li>
 <li>University of Michigan</li>
 <li>Washington University in St. Louis</li>
