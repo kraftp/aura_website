@@ -3,7 +3,7 @@
   <head>
       <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>AURA - {{ page.title }}</title>
+      <title>AURA | {{ page.title }}</title>
       <meta name="viewport" content="width=device-width">
 
       <!-- CSS Files-->
@@ -14,9 +14,11 @@
       <link rel="stylesheet" href="/css/responsive.css">
   </head>
   <body>
+    {% include header.html %}
     <div>
         {{ content }}
     </div>
+    {% include footer.html %}
     <!-- JAVASCRIPT
     ================================================== -->
     <!-- Javascript files placed here for faster loading -->
@@ -26,6 +28,7 @@
     <script src="/scripts/jquery.carouFredSel-6.0.5-packed.js"></script>
     <script src="/scripts/jquery.cycle.js"></script>
     <script src="/scripts/app.js"></script>
+    <script src="/scripts/konami.js"></script>
     <script src="/scripts/modernizr.foundation.js"></script>
     <script src="/scripts/slidepanel.js"></script>
     <script src="/scripts/scrolltotop.js"></script>

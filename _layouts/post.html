@@ -1,16 +1,26 @@
 ---
 layout: default
 ---
-{% include header.html %}
+<!-- SUBHEADER
+================================================== -->
+<div id="subheader">
+	<div class="row">
+		<div class="twelve columns">
+			<p class="left">
+				 {{page.title}}
+			</p>
+		</div>
+	</div>
+</div>
+<div class="hr">
+</div>
 <!-- CONTENT
 ================================================== -->
 <!-- SINGLE COLUMN-->
 <div class="row">
 	<div class="twelve columns">
-		<h2>{{page.title}}</h2>
 		<div class="postcontent">
 			{{content}}
 		</div>
 	</div>
 </div>
-{% include footer.html %}
