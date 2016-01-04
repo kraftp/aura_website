@@ -5,7 +5,8 @@ title: Student Web Guides
 
 <div class="row">
 	<div id="portofolio">
-    {% for post in site.categories.student %}
+		{% assign sorted_posts = (site.categories.student | sort: 'title') %}
+    {% for post in sorted_posts %}
 		<div class="six columns">
 			<h5><a href="{{post.url}}">{{post.title}}</a></h5>
 			<p>By {{post.author}}</p>
