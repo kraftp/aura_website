@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Research Organizations
+title: Member Organizations
 ---
-
-
-####AURA Affiliates:
 <li>College of the Holy Cross</li>
 <li>Duke University</li>
 <li>Elon University</li>

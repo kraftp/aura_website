@@ -5,9 +5,10 @@ title: Resource Library
 
 On this page, we have added links to many helpful resources for undergraduate researchers. More resources will be added to the page over time.
 
-
-
-#### Proposal Advice
+<br>
+<div class="sectiontitle">
+<h4> Proposal Advice </h4>
+</div>
 
 [Yale Fellowship and Grant Application Tips](http://studentgrants.yale.edu/app-guidance.asp)
 
@@ -17,9 +18,10 @@ Guidance from Yale on how to prepare successful fellowship and grant application
 
 Advice from researchers at Duke on how to write a research proposal.
 
-
-
-#### Helpful Tools
+<br>
+<div class="sectiontitle">
+<h4> Helpful Tools </h4>
+</div>
 
 [Mendeley](https://www.mendeley.com/download-mendeley-desktop/)
 
@@ -34,15 +36,21 @@ A clear tutorial on the LaTeX typesetting system for creating documents. LaTeX i
 R is a powerful and free environment that can be used for statistical computing. It contains many packages for data analysis and graphic generation that can be helpful while conducting research. This document walks you through what R is and how to use it.
 
 
+<br>
+<div class="sectiontitle">
+<h4> Scientific Writing </h4>
+</div>
 
-#### Scientific Writing
 [The Science of Scientific Writing](http://www.americanscientist.org/issues/pub/the-science-of-scientific-writing)
 
 An article originally published in the magazine *American Scientist* that gives some helpful tips on effective written communication in academia.
 
 
+<br>
+<div class="sectiontitle">
+<h4> Research Posters </h4>
+</div>
 
-####Research Posters
 
 [Do's and Don't's of Poster Presentations](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1233841/pdf/biophysj00042-0617.pdf)
 
