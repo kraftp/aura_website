@@ -10,7 +10,7 @@ title: Research Organization Web Guides
 			<h5><a href="{{post.url}}">{{post.title}}</a></h5>
 			<p>By {{post.author}}</p>
 			<div class="portofoliothumb">
-				<img src="/images/guides/{{post.image}}" class="fourimage" alt=""/>
+				<img src="/images/guides/{{post.image}}" class="threeimage" alt=""/>
 			</div>
 		</div>
     {% endfor %}

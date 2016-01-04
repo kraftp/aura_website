@@ -749,7 +749,7 @@ a.projectdetail { background: #33877d; color: #fff; padding: 7px 7px 6px 7px; fo
 .isotope.no-transition,.isotope.no-transition .isotope-item,.isotope .isotope-item.no-transition { -webkit-transition-duration: 0s; -moz-transition-duration: 0s; -ms-transition-duration: 0s; -o-transition-duration: 0s; transition-duration: 0s; }
 /* 3 columns portofolio special stylesheet */
 .threeportofolio {width:33% !important;}
-.threeimage { height: 170px !important; }
+.threeimage { height: 25% !important; width: auto; }
 .threedetail {left: 33% !important;}
 .threegallery a{left:70% !important; top:10% !important;}
 .threeoverlay {height:96% !important;}

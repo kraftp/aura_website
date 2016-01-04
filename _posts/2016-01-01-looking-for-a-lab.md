@@ -24,5 +24,5 @@ Let your prospective mentors know that you are interested in their work. In the 
 <li>
 <h6>Meet with your mentor</h6>
 Once you have secured a meeting time, be prepared to discuss you and your future mentor’s expectations in depth. Questions often revolve around previous, relevant experiences (if any), your role in the conception of the research question, the number of hours per week you are expected to spend working on the project, and any expectations for the final product (e.g. Senior Thesis, conference presentation, or a published paper). It is also important to carefully read their website beforehand, as you may be asked about your interest in ongoing projects.
-</li>
+  </li>
 </ol>
