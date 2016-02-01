@@ -11,5 +11,6 @@ title: Member Organizations
 <li> <a href="http://www.uroubc.ca/">University of British Columbia</a></li>
 <li>University of Chicago</li>
 <li>University of Michigan</li>
+<li> <a href="http://www.ursautk.org/">University of Tennessee, Knoxville</a> </li>
 <li>Washington University in St. Louis</li>
 <li> <a href="http://yura.yale.edu">Yale University</a> </li>
